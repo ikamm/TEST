@@ -2,23 +2,4 @@ test using git by gam
 
 HELLO, i'm KAM :)
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-hello everybody 
-it's me 
-
-HELLO, i'm KAM :)
-
-=======
->>>>>>> ce905304da728900b1615335903b5736c88d239d
+This is Belle superza hahaha 
